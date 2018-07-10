@@ -1,35 +1,4 @@
-@font-face {
-    font-family: 'rubiklight';
-    src: url('rubik-light-webfont.eot');
-    src: local('☺'),
-         url('rubik-light-webfont.woff') format('woff'),
-         url('rubik-light-webfont.woff2') format('woff2'),
-         url('rubik-light-webfont.ttf') format('truetype'),
-         url('rubik-light-webfont.svg') format('svg');
+body, h1, p {
+    font-family: 'Rubik', sans-serif;
     font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'rubikmedium';
-    src: url('rubik-medium-webfont.eot');
-    src: local('☺'),
-         url('rubik-medium-webfont.woff') format('woff'),
-         url('rubik-medium-webfont.woff2') format('woff2'),
-         url('rubik-medium-webfont.ttf') format('truetype'),
-         url('rubik-medium-webfont.svg') format('svg');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'rubikregular';
-    src: url('rubik-light-webfont.eot');
-    src: local('☺'),
-         url('rubik-regular-webfont.woff') format('woff'),
-         url('rubik-regular-webfont.woff2') format('woff2'),
-         url('rubik-regular-webfont.ttf') format('truetype'),
-         url('rubik-regular-webfont.svg') format('svg');
-    font-weight: 400;
-    font-style: normal;
 }
