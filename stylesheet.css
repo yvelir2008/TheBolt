@@ -2,14 +2,14 @@ body, h1, p {
     font-family: 'Rubik', sans-serif;
     font-weight: 400;
 }
-.light {
+h1 .light {
     font-weight: 300;
 }
 
-.normal {
+h1 .normal {
     font-weight: 400;
 }
 
-.medium {
+h1 .medium {
     font-weight: 500;
 }
