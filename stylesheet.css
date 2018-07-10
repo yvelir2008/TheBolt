@@ -8,10 +8,12 @@ body, h1, p {
 h1 {
     font-size: 32px;
     line-height: 100%;
+    margin: 32px 0 8px 0;
 }
 p {
     font-size: 15px;
     line-height: 120%;
+    marhin: 8px;
 }
 
 .light {
