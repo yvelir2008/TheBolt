@@ -4,9 +4,19 @@ body, div, h1, p {
     margin: 0;
     padding: 0;
 }
-div {
+.content {
     margin: 0 auto;
     width: 60%;
+}
+
+.col {
+    float: left;
+    width: 300px;
+    margin-left: 16px;
+}
+
+.col:first-child {
+    margin-left: 0;
 }
 
 h1 {
@@ -17,7 +27,7 @@ h1 {
 p {
     font-size: 15px;
     line-height: 120%;
-    marhin: 8px;
+    margin: 8px;
 }
 
 .light {
