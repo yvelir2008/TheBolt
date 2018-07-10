@@ -15,7 +15,7 @@ body, div, h1, p {
     margin-left: 16px;
 }
 
-div.col:first-child {
+.col:first-of-type  {
     margin-left: 0;
 }
 
