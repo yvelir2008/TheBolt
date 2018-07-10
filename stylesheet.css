@@ -1,4 +1,15 @@
 body, h1, p {
     font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+}
+.light {
     font-weight: 300;
+}
+
+.normal {
+    font-weight: 400;
+}
+
+.medium {
+    font-weight: 500;
 }
