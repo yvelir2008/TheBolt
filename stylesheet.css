@@ -2,6 +2,16 @@ body, h1, p {
     font-family: 'Rubik', sans-serif;
     font-weight: 400;
 }
+
+h1 {
+    font-size: 48px;
+    line-height: 130%;
+}
+p {
+    font-size: 15px;
+    line-height: 120%;
+}
+
 .light {
     font-weight: 300;
 }
